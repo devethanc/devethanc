@@ -5,6 +5,8 @@
 
 ![Ethan GitHub stats](https://github-readme-stats.vercel.app/api?username=devethanc&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devethanc&layout=compact)
+
 ## Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
