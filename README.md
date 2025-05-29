@@ -7,7 +7,7 @@ I break things to understand how they work — and then secure them. 🚀
 
 ## 🧠 About Me
 
-- 🎓 Cybersecurity Student @ [Your University or Course]
+- 🎓 Science Computer Student @ CESUPA
 - 🧪 Focus: Pentesting, Forensics, and Malware Analysis
 - 🛠️ Tools: Burp Suite, Nmap, Metasploit, Autopsy, Volatility
 - 🌱 Currently learning: Advanced privilege escalation & memory forensics
