@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Maximus 🛡️
+# 👋 Hey there! I'm Ethan 🛡️
 
 I'm a **Cybersecurity student** passionate about **Pentesting** and **Digital Forensics**.  
 I break things to understand how they work — and then secure them. 🚀
