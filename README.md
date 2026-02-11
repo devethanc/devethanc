@@ -9,6 +9,7 @@ I break things to understand how they work — and then secure them. 🚀
 
 🎓 Computer Science Student @ CESUPA
 🔍 Focus Areas:
+
 • Blue Team Operations
 
 • Digital Forensics (DFIR)
