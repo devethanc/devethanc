@@ -34,8 +34,8 @@ I break things to understand how they work — and then secure them. 🚀
 
 ## 🧰 Toolbox
 
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-F63?logo=burpsuite&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-333333?logo=linux&logoColor=000&style=flat)
+![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-333333?logo=burpsuite&logoColor=fff&style=flat)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
