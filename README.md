@@ -8,6 +8,7 @@ I break things to understand how they work — and then secure them. 🚀
 ## 🧠 About Me
 
 🎓 Computer Science Student @ CESUPA
+
 🔍 Focus Areas:
 
 • Blue Team Operations
