@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Ethan 🛡️
 
-I'm a **Cybersecurity student** passionate about **Pentesting** and **Digital Forensics**.  
-I break things to understand how they work — and then secure them. 🚀
+I'm a **Cybersecurity student** focused on **Threat Detection**, **Incident Response**, and **Digital Forensics**.  
+I analyze systems, identify vulnerabilities, and transform findings into actionable security improvements.
 
 ---
 
