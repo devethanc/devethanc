@@ -7,28 +7,28 @@ I break things to understand how they work — and then secure them. 🚀
 
 ## 🧠 About Me
 
-🎓 Computer Science Student @ CESUPA
-🔍 Focus Areas:
-• Blue Team Operations
-• Digital Forensics (DFIR)
-• Threat Analysis
-• Vulnerability Assessment
-📊 Strong interest in:
-• Log analysis
-• Malware behavior investigation
-• Network traffic inspection
-• Incident documentation and reporting
+-🎓 Computer Science Student @ CESUPA
+-🔍 Focus Areas:
+-• Blue Team Operations
+-• Digital Forensics (DFIR)
+-• Threat Analysis
+-• Vulnerability Assessment
+-📊 Strong interest in:
+-• Log analysis
+-• Malware behavior investigation
+-• Network traffic inspection
+-• Incident documentation and reporting
 
 ---
 
 ## 🛠 Technical Skills
-🔐 Security & Analysis
-• Vulnerability assessment
-• Log investigation
-• Privilege escalation analysis
-• Memory forensics
-• OWASP Top 10
-• MITRE ATT&CK fundamentals
+-🔐 Security & Analysis
+-• Vulnerability assessment
+-• Log investigation
+-• Privilege escalation analysis
+-• Memory forensics
+-• OWASP Top 10
+-• MITRE ATT&CK fundamentals
 
 ---
 
@@ -50,10 +50,10 @@ I break things to understand how they work — and then secure them. 🚀
 
 ## 🎯 Current Goals
 
-🛠️ Build 10 real-world security lab projects
-📑 Produce professional security reports (Pentest & Forensics)
-🚩 Complete 50+ CTF / TryHackMe challenges
-📚 Deepen knowledge in advanced privilege escalation & memory analysis
+-🛠️ Build 10 real-world security lab projects
+-📑 Produce professional security reports (Pentest & Forensics)
+-🚩 Complete 50+ CTF / TryHackMe challenges
+-📚 Deepen knowledge in advanced privilege escalation & memory analysis
 
 ---
 
