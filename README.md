@@ -7,34 +7,58 @@ I break things to understand how they work — and then secure them. 🚀
 
 ## 🧠 About Me
 
-- 🎓 Science Computer Student @ CESUPA
-- 🧪 Focus: Pentesting, Forensics, and Malware Analysis
-- 🛠️ Tools: Burp Suite, Nmap, Metasploit, Autopsy, Volatility
-- 🌱 Currently learning: Advanced privilege escalation & memory forensics
+🎓 Computer Science Student @ CESUPA
+🔍 Focus Areas:
+• Blue Team Operations
+• Digital Forensics (DFIR)
+• Threat Analysis
+• Vulnerability Assessment
+📊 Strong interest in:
+• Log analysis
+• Malware behavior investigation
+• Network traffic inspection
+• Incident documentation and reporting
+
+---
+
+## 🛠 Technical Skills
+🔐 Security & Analysis
+• Vulnerability assessment
+• Log investigation
+• Privilege escalation analysis
+• Memory forensics
+• OWASP Top 10
+• MITRE ATT&CK fundamentals
 
 ---
 
 ## 🧰 Toolbox
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-![Kali Linux](https://img.shields.io/badge/-Kali-333333?style=flat&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-F63?logo=burpsuite&logoColor=fff&style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ---
 
+## 💻 Scripting & Automation
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) • ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+
+---
+
 ## 🎯 Current Goals
 
-- 🛠️ Build 10 practical Pentest and Forensics projects  
-- 📜 Write professional reports for each project  
-- 🚩 Complete at least 50 TryHackMe or CTF challenges
+🛠️ Build 10 real-world security lab projects
+📑 Produce professional security reports (Pentest & Forensics)
+🚩 Complete 50+ CTF / TryHackMe challenges
+📚 Deepen knowledge in advanced privilege escalation & memory analysis
 
 ---
 
 ## 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanccruz/)  
-✉️ devethancosta@gmail.com
+✉️ ethancruznv@gmail.com
 
